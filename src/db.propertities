@@ -1,0 +1,4 @@
+jdbc.url=jdbc:mysql:///s2sh
+jdbc.driver_class=com.mysql.jdbc.Driver
+jdbc.username=root
+jdbc.password=root
